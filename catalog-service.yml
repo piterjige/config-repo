@@ -1,2 +1,9 @@
 polar:
   greeting: "Welcome to the catalog from a refresh the config server"
+
+token:
+  expiration-time: 86400000 # 1일 토큰
+  secret: secret-key
+
+gateway:
+  ip: 168.0.0.1
