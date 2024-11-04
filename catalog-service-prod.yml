@@ -1,2 +1,9 @@
 polar:
   greeting: "Welcome to the production catalog from the config server"
+
+token:
+  expiration-time: 86400000 # 1일 토큰
+  secret: "piterjige123piterjige123piterjige123piterjige123piterjige123piterjige123piterjige123"
+
+gateway:
+  ip: 168.0.0.2
